@@ -1,7 +1,7 @@
 # Matrix Library (WIP)
 For personal use.
 
-Small C matrix library with dynamic allocation and basic linear algebra (i)
+Small C matrix library with dynamic allocation and basic linear algebra
 
 ## Features
 - Core: create, free, copy, fill, identity, get, set
