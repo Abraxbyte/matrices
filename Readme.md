@@ -15,3 +15,8 @@ make clean
 
 To run test:
 make test
+
+## Usage
+Link to lib/libmatrix.a when compiling and inlcude include/.
+In the C program include 
+#Inlcude <matrices.h>
