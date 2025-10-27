@@ -15,15 +15,3 @@ make clean
 
 To run test:
 make test
-
-## Layout
-include/
-matrix.h
-src/
-matrix_core.c
-matrix_math.c
-matrix_utils.c
-matrix_advanced.c
-main.c # optional CLI demo
-tests/
-test_matrix.c # see below
